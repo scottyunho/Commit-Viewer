@@ -1,3 +1,7 @@
+Will use OAuth Github authentication to pull commit information from a user-selected repository. 
+
+Pulled OAuth setup from https://github.com/PrincewillIroka/login-with-github
+
 ## Login with Github
 
 An app that implements "Login with GitHub" functionality in React
